@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e4030d7d.css",
+    "main.js": "/static/js/main.ff2a56a6.js",
+    "static/media/logo-ig.png": "/static/media/logo-ig.88de72877cb4816eb495.png",
+    "static/media/blackjack21.jpg": "/static/media/blackjack21.52362b8e1df0f3f96956.jpg",
+    "static/media/website.jpg": "/static/media/website.8367168e5e9073af7a5b.jpg",
+    "static/media/calc.jpg": "/static/media/calc.ab6daca0bbbc295f6d12.jpg",
+    "static/media/logo-fb.png": "/static/media/logo-fb.fd16fba6b391dd5e9ec9.png",
+    "static/media/logo-linkedin.png": "/static/media/logo-linkedin.a53ff3332dad283ef579.png",
+    "index.html": "/index.html",
+    "main.e4030d7d.css.map": "/static/css/main.e4030d7d.css.map",
+    "main.ff2a56a6.js.map": "/static/js/main.ff2a56a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e4030d7d.css",
+    "static/js/main.ff2a56a6.js"
+  ]
+}
